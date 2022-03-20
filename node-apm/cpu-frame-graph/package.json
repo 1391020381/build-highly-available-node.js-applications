@@ -1,0 +1,12 @@
+{
+  "scripts": {
+    "test": "NODE_ENV=production 0x -P 'autocannon http://localhost:3000/' ./app.js"
+  },
+  "dependencies": {
+    "restify": "^8.5.1"
+  },
+  "devDependencies": {
+    "0x": "^4.10.2",
+    "autocannon": "^7.4.0"
+  }
+}
