@@ -31,3 +31,11 @@
 
 
     * https://gitee.com/node-apm
+    * https://github.com/nswbmw/node-in-debugging
+    * https://github.com/yjhjstz/deep-into-node
+    * https://github.com/theanarkh/understand-nodejs
+    * https://github.com/aliyun-node/Node.js-Troubleshooting-Guide
+    * https://github.com/goldbergyoni/nodebestpractices/blob/master/README.chinese.md
+    * https://pm2.keymetrics.io/docs/usage/signals-clean-restart/
+    * [[译] 在你沉迷于包的海洋之前，还是了解一下运行时 Node.js 的本身](https://juejin.cn/post/6844903470529511432#heading-0)
+    * [node.js BFF开发8个月的心路历程](https://juejin.cn/post/6844904084709834766#heading-2)
